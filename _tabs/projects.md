@@ -72,7 +72,7 @@ A collection of apps and tools I've built — covering personal finance, cyberse
 
 <div class="project-grid">
 
-  <a class="project-card" href="/posts/building-budget-coach-a-mobile-first-personal-finance-app/">
+  <a class="project-card" href="/posts/budget-coach/">
     <img src="/assets/img/projects/budget-coach.png" alt="Budget Coach" loading="lazy">
     <div class="project-card-body">
       <p class="project-card-title">Budget Coach</p>
@@ -86,7 +86,7 @@ A collection of apps and tools I've built — covering personal finance, cyberse
     </div>
   </a>
 
-  <a class="project-card" href="/posts/bounty-hunter-ai-local-bug-bounty-command-center/">
+  <a class="project-card" href="/posts/bounty-hunter-ai/">
     <img src="/assets/img/projects/bounty-hunter-ai.png" alt="Bounty Hunter AI" loading="lazy">
     <div class="project-card-body">
       <p class="project-card-title">Bounty Hunter AI</p>
@@ -100,7 +100,7 @@ A collection of apps and tools I've built — covering personal finance, cyberse
     </div>
   </a>
 
-  <a class="project-card" href="/posts/apex-paper-trading-terminal-tradingview-style-workspace-in-react/">
+  <a class="project-card" href="/posts/apex-trading-terminal/">
     <img src="/assets/img/projects/apex-trading-terminal.png" alt="Apex Trading Terminal" loading="lazy">
     <div class="project-card-body">
       <p class="project-card-title">Apex Paper Trading Terminal</p>
@@ -114,7 +114,7 @@ A collection of apps and tools I've built — covering personal finance, cyberse
     </div>
   </a>
 
-  <a class="project-card" href="/posts/trading-coach-saas-ai-powered-paper-trading-coach-concept/">
+  <a class="project-card" href="/posts/trading-coach-saas/">
     <img src="/assets/img/projects/trading-coach-saas.png" alt="Trading Coach SaaS" loading="lazy">
     <div class="project-card-body">
       <p class="project-card-title">Trading Coach SaaS</p>
@@ -128,7 +128,7 @@ A collection of apps and tools I've built — covering personal finance, cyberse
     </div>
   </a>
 
-  <a class="project-card" href="/posts/home-pro-business-website-for-a-family-remodeling-company/">
+  <a class="project-card" href="/posts/home-pro/">
     <img src="/assets/img/projects/home-pro.png" alt="Home Pro" loading="lazy">
     <div class="project-card-body">
       <p class="project-card-title">Home Pro</p>
@@ -141,7 +141,7 @@ A collection of apps and tools I've built — covering personal finance, cyberse
     </div>
   </a>
 
-  <a class="project-card" href="/posts/pool-liners-premium-website-for-a-family-pool-business/">
+  <a class="project-card" href="/posts/pool-liners/">
     <img src="/assets/img/projects/pool-liners.png" alt="Pool Liners" loading="lazy">
     <div class="project-card-body">
       <p class="project-card-title">Pool Liners Tennessee</p>
@@ -154,7 +154,7 @@ A collection of apps and tools I've built — covering personal finance, cyberse
     </div>
   </a>
 
-  <a class="project-card" href="/posts/daytrader-bot-choch-fvg-automated-trading-strategy/">
+  <a class="project-card" href="/posts/daytrader-bot/">
     <img src="https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=80" alt="DayTrader Bot" loading="lazy">
     <div class="project-card-body">
       <p class="project-card-title">DayTrader Bot</p>
