@@ -5,6 +5,9 @@ categories: [Projects, Web Development]
 tags: [react, typescript, vite, tailwind, finance, mobile-first]
 ---
 
+![Budget Coach mobile dashboard showing Safe-to-Spend hero card, bills due soon, and savings goals](/assets/img/projects/budget-coach.png)
+_Budget Coach running on mobile — dark theme, real-time safe-to-spend calculation, couples mode active_
+
 ## What I Built
 
 Budget Coach is a fully local, mobile-first personal finance app built with React, TypeScript, and Tailwind CSS. No backend, no accounts, no data leaving your device — everything lives in localStorage. The idea was simple: build a tool that actually helps people understand where their money is going, without the friction of bank sync or subscription fees.

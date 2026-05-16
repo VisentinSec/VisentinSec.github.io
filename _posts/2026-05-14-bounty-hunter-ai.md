@@ -5,6 +5,9 @@ categories: [Projects, Cybersecurity, Web Development]
 tags: [python, fastapi, react, typescript, bug-bounty, recon, ethical-hacking]
 ---
 
+![Bounty Hunter AI onboarding screen showing the ethical bug bounty command center](/assets/img/projects/bounty-hunter-ai.png)
+_Bounty Hunter AI — fully local, scope-enforced bug bounty research platform_
+
 ## What I Built
 
 Bounty Hunter AI is a local bug bounty research tool — a full-stack app that acts as a command center for ethical security research. It handles program management, passive recon orchestration, lead tracking, evidence collection, and payout logging. The entire thing runs locally — no cloud, no telemetry, no data leaves your machine.

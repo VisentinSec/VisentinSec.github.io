@@ -5,6 +5,9 @@ categories: [Projects, Web Development, Finance]
 tags: [react, typescript, vite, tailwind, trading, alpaca, paper-trading, charts]
 ---
 
+![Apex Paper Trading Terminal showing the chart terminal with AMD ticker, watchlist, scanner, and coach panel](/assets/img/projects/apex-trading-terminal.png)
+_Apex Paper Trading Terminal — chart workspace with watchlist, scanner, and AI coach panel_
+
 ## What I Built
 
 Apex is a TradingView-inspired paper trading workspace built entirely in React. It's a market-watching, setup-scanning, alert-tracking, and journaling tool — backed by Alpaca paper trading for order simulation. No real money, no live broker execution. Just a clean workspace for studying the markets and testing strategies.

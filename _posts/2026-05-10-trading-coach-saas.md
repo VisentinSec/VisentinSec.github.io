@@ -5,6 +5,9 @@ categories: [Projects, Web Development, Finance]
 tags: [react, typescript, vite, tailwind, saas, trading, ai]
 ---
 
+![Trading Coach SaaS landing page showing the AI-powered paper trading coach interface](/assets/img/projects/trading-coach-saas.png)
+_Trading Coach SaaS — beginner-friendly AI coaching platform concept_
+
 ## What I Built
 
 Trading Coach SaaS is a product concept for a beginner-friendly AI trading coach — the kind of tool I wish existed when I first started learning markets. The idea is a guided, opinionated paper trading experience where a coach walks you through setups, explains what to look for, and gives feedback on your trades.

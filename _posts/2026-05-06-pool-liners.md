@@ -5,6 +5,9 @@ categories: [Projects, Web Development, Client Work]
 tags: [react, typescript, vite, tailwind, business-website, tennessee]
 ---
 
+![Pool Liners website hero showing Tennessee Pool Liner Replacement Done Right with dark navy design](/assets/img/projects/pool-liners.png)
+_Pool Liners — premium lead-gen website for a family-owned Tennessee pool company_
+
 ## What I Built
 
 Pool Liners is a clean, premium React website for a family-owned pool liner company based in Tennessee. The goal was a site that looks high-end and instantly communicates quality and trust — something that could compete with larger regional competitors.
