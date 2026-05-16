@@ -3,6 +3,9 @@ title: "Building Budget Coach — A Mobile-First Personal Finance App"
 date: 2026-05-16 10:00:00 -0500
 categories: [Projects, Web Development]
 tags: [react, typescript, vite, tailwind, finance, mobile-first]
+image:
+  path: /assets/img/projects/budget-coach.png
+  alt: Budget Coach mobile dashboard
 ---
 
 ![Budget Coach mobile dashboard showing Safe-to-Spend hero card, bills due soon, and savings goals](/assets/img/projects/budget-coach.png)

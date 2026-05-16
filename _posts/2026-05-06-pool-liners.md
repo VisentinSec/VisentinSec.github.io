@@ -3,6 +3,9 @@ title: "Pool Liners — Premium Website for a Family Pool Business"
 date: 2026-05-06 10:00:00 -0500
 categories: [Projects, Web Development, Client Work]
 tags: [react, typescript, vite, tailwind, business-website, tennessee]
+image:
+  path: /assets/img/projects/pool-liners.png
+  alt: Pool Liners Tennessee website
 ---
 
 ![Pool Liners website hero showing Tennessee Pool Liner Replacement Done Right with dark navy design](/assets/img/projects/pool-liners.png)

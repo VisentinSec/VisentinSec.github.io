@@ -3,6 +3,9 @@ title: "Apex Paper Trading Terminal — TradingView-Style Workspace in React"
 date: 2026-05-12 10:00:00 -0500
 categories: [Projects, Web Development, Finance]
 tags: [react, typescript, vite, tailwind, trading, alpaca, paper-trading, charts]
+image:
+  path: /assets/img/projects/apex-trading-terminal.png
+  alt: Apex Paper Trading Terminal
 ---
 
 ![Apex Paper Trading Terminal showing the chart terminal with AMD ticker, watchlist, scanner, and coach panel](/assets/img/projects/apex-trading-terminal.png)

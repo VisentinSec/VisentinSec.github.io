@@ -3,6 +3,9 @@ title: "Bounty Hunter AI — Local Bug Bounty Command Center"
 date: 2026-05-14 10:00:00 -0500
 categories: [Projects, Cybersecurity, Web Development]
 tags: [python, fastapi, react, typescript, bug-bounty, recon, ethical-hacking]
+image:
+  path: /assets/img/projects/bounty-hunter-ai.png
+  alt: Bounty Hunter AI command center
 ---
 
 ![Bounty Hunter AI onboarding screen showing the ethical bug bounty command center](/assets/img/projects/bounty-hunter-ai.png)

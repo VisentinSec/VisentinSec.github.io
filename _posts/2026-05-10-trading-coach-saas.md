@@ -3,6 +3,9 @@ title: "Trading Coach SaaS — AI-Powered Paper Trading Coach Concept"
 date: 2026-05-10 10:00:00 -0500
 categories: [Projects, Web Development, Finance]
 tags: [react, typescript, vite, tailwind, saas, trading, ai]
+image:
+  path: /assets/img/projects/trading-coach-saas.png
+  alt: Trading Coach SaaS platform
 ---
 
 ![Trading Coach SaaS landing page showing the AI-powered paper trading coach interface](/assets/img/projects/trading-coach-saas.png)
